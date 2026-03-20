@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "quad87-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/quad87-eagle-import.kicad_sym")(options "")(descr ""))
+)
